@@ -7,6 +7,4 @@ Apply the PID control method and build a robot car powered by stm32 MCU embedded
 </br>
 ## Demo2
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![Watch the video](video/cover.jpg)](https://youtu.be/bUKb2YRz04E)
