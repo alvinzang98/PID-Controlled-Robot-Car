@@ -2,9 +2,16 @@
 Apply the PID control method and build a robot car powered by stm32 MCU embedded with infrared sensors and WIFI modules to complete three different cars. 
 </br>
 </br>
-![robotcar](video/img1.jpg)
+<img src="video/img1.jpg" alt="drawing" width="500"/>
 </br>
 </br>
 ## Demo2
-
-[![Watch the video](video/cover.jpg)](https://youtu.be/bUKb2YRz04E)
+![robotcar](video/Demo2.gif)
+</br>
+</br>
+## Demo3
+![robotcar](video/Demo3.gif)
+</br>
+</br>
+## Demo4
+![robotcar](video/Demo4.gif)
